@@ -1,0 +1,25 @@
+Primary Skills  Scala Spark  Pyspark SQl   store procedures Databricks Azure  ADF  Data Lake Secondary Skills  Azure DevOps Polybase PBI
+Understanding of Big Data technologies and solutions  Spark  Hadoop  Hive  MapReduce  and multiple scripting and languages  YAML  Python  
+Understanding of Google Cloud Platform  GCP  technologies in the big data and data warehousing space  BigQuery  Cloud Data Fusion  Dataproc  Dataflow  Data Catalog  
+Good understanding of streaming technologies like Kafka  Spark Streaming  Proficiency in one of the programming language preferably Java  Scala or Python  Good knowledge of Agile  SDLC CICD practices and tools with good understanding of distributed systems
+Must have proven experience with Hadoop  Mapreduce  Hive  Spark  Scala programming  Must have in depth knowledge of performance tuning optimizing data processing jobs  debugging time consuming jobs
+Proven experience in development of conceptual  logical  and physical data models for Hadoop  relational  EDW  enterprise data warehouse  and OLAP database solutions
+Implementation of applications utilizing Big Data infrastructure and services under the supervision collaboration of senior data engineer 
+Quality control of data assets pipeline and data service development 
+Execute and manage large scale ETL processes to support development and publishing of reports  Datamart and predictive models 
+Build and develop ETL pipelines in Spark  Python  HIVE or SAS that process transaction and account level data and standardize data fields across various data sources
+Expertise with hands on experience with RDMS technologies  preferably with Microsoft SQL Server  the SSIS Stack and  Net  Proficiency with at least one scripting language  VB Script  Perl  Python 
+At least 3 years experience in writing complex database queries in any SQL language  Oracle  MySQL  etc 
+Knowledge of statistics and experience using statistical packages for analyzing datasets and experience with data models  data mining and segmentation techniques
+Strong analytical skills along with ability to work independently with limited supervision
+Experience with any analytics reporting tools like Tableau  Business Objects  Spotfire  QlikView  etc is desirable 
+Must have experience with Informatica and other ETL applications
+Exposure and understanding of relational databases  BI and data warehousing
+Person should have knowledge in coding data pipeline on GCP   
+Prior experience on Hadoop systems is ideal as candidate may not have total GCP experience   
+Strong on programming languages like Scala  Python  Java   
+Good understanding of various data storage formats and it’s advantages   
+Should have exposure on GCP tools to develop end to end data pipeline for various scenarios  including ingesting data from traditional data bases as well as integration of API based data sources    
+Experience designing  building  and maintaining relational databases using tools such as Access  SQL  the AWS suite or the Apache suite
+Strong knowledge of data analytics architectures and standards  including data warehouses  master data management  ETL  OLAP  data modelling techniques  meta data management  data quality management  and advanced analytics applications  e g  machine learning 
+Experience with common data wrangling techniques and software such as Alteryx  Python  or R
